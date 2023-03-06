@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an EXPERIMENTAL [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app@latest --experimental-app
+`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). There was some functionality / compatability mishaps I needed to work through in order to get it working properly. Which is fine, It's still in beta. 
 
 ## Getting Started
 
