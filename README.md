@@ -1,5 +1,5 @@
 # postblog-fullstack-next13
-this is a simple post app built in Next.js13 using PostgreSQL Primsa and Typescript 
+This is a simple post app built in Next.js13 using PostgreSQL Primsa and Typescript 
 
 This is an EXPERIMENTAL [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app@latest --experimental-app
 `](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). There was some functionality / compatability mishaps I needed to work through in order to get it working properly. Which is fine, It's still in beta. 
